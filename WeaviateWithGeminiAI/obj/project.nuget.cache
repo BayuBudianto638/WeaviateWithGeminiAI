@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nrFmGiqHqkA=",
+  "success": true,
+  "projectFilePath": "/home/bayu-budianto/RiderProjects/WeaviateWithGeminiAI/WeaviateWithGeminiAI/WeaviateWithGeminiAI.csproj",
+  "expectedPackageFiles": [
+    "/home/bayu-budianto/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/bayu-budianto/.nuget/packages/restsharp/112.1.1-alpha.0.4/restsharp.112.1.1-alpha.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
